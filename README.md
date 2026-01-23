@@ -2,7 +2,7 @@
 ### Developer
 
 ## My pages
-[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=EasyItemFrames&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
+[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vKOTH&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
 
 ## Skills
 <p align="left">
