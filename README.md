@@ -2,7 +2,8 @@
 ### Developer
 
 ## My pages
-[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=EasyItemFrames&style=flat)](https://modrinth.com/mod/63up1tvR)
+[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vKOTH&color=00AF5C)](https://modrinth.com/plugin/63up1tvR)
+[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugin/Bjyut6kl)
 
 ## Skills
 <p align="left">
@@ -19,10 +20,6 @@ Discord Ticket Bots
 ---
 
 ## GitHub Stats
-![Vuzzlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuzzlee&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-## Organizations
-[![Organization](https://img.shields.io/badge/Organization-View-blue?style=flat&logo=github)](https://github.com/ORGANIZATION_NAME)
 
 ## GitHub Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vuzzlee&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
