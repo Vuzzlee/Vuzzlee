@@ -6,7 +6,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugin/Bjyut6kl)
 
 ## Discord Servers
-[![Discord](https://img.shields.io/badge/Vuxi Project's_Server-Join_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M3Rdagcn)
+[![Discord](https://img.shields.io/badge/VuxiProject's_Server-Join_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M3Rdagcn)
 
 ## Skills
 <p align="left">
