@@ -2,7 +2,7 @@
 ### Developer
 
 ## Contact Me
-<p><a href="https://modrinth.com/organization/vuxiproject" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p><a href="https://discord.gg/M3Rdagcn" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
 ## Skills
 
@@ -23,8 +23,6 @@ Discord Ticket Bots
 ---
 
 ## GitHub Stats
-
-<img src="https://profile-counter.glitch.me/Vuzzlee/count.svg?" alt="visitors count" />
 
 ## GitHub Activity Graph
 
