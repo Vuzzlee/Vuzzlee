@@ -3,7 +3,7 @@
 
 ## Contact Me
 <p><a href="https://discord.gg/M3Rdagcn" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p> 
-<p><a href="https://discord.gg/M3Rdagcn" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p><a href="[https://discord.gg/M3Rdagcn](https://modrinth.com/organization/vuxiproject)" target="_blank"><img src="[https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white](https://dl.flathub.org/media/com/modrinth/ModrinthApp/28890f776b34e2b771e348ffa5b09104/icons/128x128@2/com.modrinth.ModrinthApp.png)" alt="Website"></a> </p>
 
 ## Skills
 
