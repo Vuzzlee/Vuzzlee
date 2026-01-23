@@ -6,7 +6,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugin/Bjyut6kl)
 
 ## Discord Servers
-
+[![Discord](https://img.shields.io/discord/1404754568188919861?logo=discord&label=Vuzzle%27s%20Server&color=5865F2)](https://discord.gg/M3Rdagcn)
 
 ## Skills
 <p align="left">
@@ -18,6 +18,7 @@
 ## Projects
 ### discord-ticket-bot-vuzzlee
 Discord Ticket Bots
+
 [View Project](https://github.com/Vuzzlee/discord-ticket-bot-vuzzlee)
 
 ---
