@@ -2,6 +2,7 @@
 ### Developer
 
 ## Contact Me
+<p><a href="https://discord.gg/M3Rdagcn" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p> 
 <p><a href="https://discord.gg/M3Rdagcn" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
 ## Skills
