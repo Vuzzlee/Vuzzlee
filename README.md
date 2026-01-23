@@ -2,8 +2,8 @@
 ### Developer
 
 ## My pages
-[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vKOTH&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
-[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugins/Bjyut6kl)
+[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vKOTH&color=00AF5C)](https://modrinth.com/plugin/63up1tvR)
+[![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugin/Bjyut6kl)
 
 ## Skills
 <p align="left">
