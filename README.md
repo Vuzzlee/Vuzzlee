@@ -1,7 +1,7 @@
 # Hello, I'm Vuzzle
 ### Developer
 
-## My pages
+## My Minecraft Addons
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=Downloads&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
 [![Modrinth Version](https://img.shields.io/modrinth/v/63up1tvR?logo=modrinth&label=Version&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
 [![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/63up1tvR?logo=modrinth&label=Game%20Versions&color=00AF5C)](https://modrinth.com/mod/63up1tvR)
