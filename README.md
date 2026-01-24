@@ -15,12 +15,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects
-### discord-ticket-bot-vuzzlee
-Discord Ticket Bots
-
-[View Project](https://github.com/Vuzzlee/discord-ticket-bot-vuzzlee)
-
 ---
 
 ## GitHub Stats
