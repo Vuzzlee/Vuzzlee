@@ -1,10 +1,8 @@
-# Hello, I'm Vuzzle
-### Developer
+ANILIN BACISIIIIII
 
 ## My Minecraft Addons
 [![Modrinth](https://img.shields.io/modrinth/dt/63up1tvR?logo=modrinth&label=vKOTH&color=00AF5C)](https://modrinth.com/plugin/63up1tvR)
 [![Modrinth](https://img.shields.io/modrinth/dt/Bjyut6kl?logo=modrinth&label=vREPORTDC&color=00AF5C)](https://modrinth.com/plugin/Bjyut6kl)
-[![Modrinth](https://img.shields.io/modrinth/dt/U6oXKGjn?logo=modrinth&label=vMETİNTAŞIC&color=00AF5C)](https://modrinth.com/plugin/U6oXKGjn)
 
 ## Discord Servers
 [![Discord](https://img.shields.io/badge/VuxiProject's_Server-Join_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M3Rdagcn)
